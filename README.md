@@ -15,7 +15,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-|  Conducting Security Audit        | <a href="https://github.com/funmibam/Security-Auditing">Security Audit</a>|
+|  Conducting Security Audit        | <a href="https://github.com/funmibam/Security-Auditing">Security Auditing</a>|
 |  NIST CSF framework               |    <a href="https://github.com/funmibam/Cybersecurity-Incident-Summary-">Cybersecurity Incident Summary</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
@@ -56,6 +56,6 @@ cccc              Jjjny## Tools
 </div>
 
 ## Projects
-- <a href="https://github.com/funmibam/Security-Auditing">Security Audit</a>
+- <a href="https://github.com/funmibam/Security-Auditing">Security Auditing</a>
 - <a href="https://github.com/funmibam/Cybersecurity-Incident-Summary-">Cybersecurity Incident Summary</a>
 
