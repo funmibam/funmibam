@@ -17,7 +17,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 |-----------------------------------------------|----------------------------|
 |  Conducting Security Audit        | <a href="https://github.com/funmibam/Security-Auditing">Security Auditing</a>|
 |  NIST CSF framework               |    <a href="https://github.com/funmibam/Cybersecurity-Incident-Summary-">Cybersecurity Incident Summary</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://docs.google.com/document/d/1XtuN2CtIExZvnQ44gdFQn-vmT0JX3ji5mAwmp2IoX8E/edit">File Permission</a>|
+| Linux Commandline  | <a href="https://docs.google.com/document/d/1XtuN2CtIExZvnQ44gdFQn-vmT0JX3ji5mAwmp2IoX8E/edit">File Permission in Linux</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
@@ -58,6 +58,6 @@ cccc              Jjjny## Tools
 ## Projects
 - <a href="https://github.com/funmibam/Security-Auditing">Security Auditing</a>
 - <a href="https://github.com/funmibam/Cybersecurity-Incident-Summary-">Cybersecurity Incident Summary</a>
-- <a href="https://docs.google.com/document/d/1XtuN2CtIExZvnQ44gdFQn-vmT0JX3ji5mAwmp2IoX8E/edit">File Permission</a>
+- <a href="https://docs.google.com/document/d/1XtuN2CtIExZvnQ44gdFQn-vmT0JX3ji5mAwmp2IoX8E/edit">File Permission in Linux</a>
 
 
