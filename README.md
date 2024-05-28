@@ -56,5 +56,5 @@ cccc              Jjjny## Tools
 </div>
 
 ## Projects
-- Security Audit 
+- Security Auditing 
 - <a href="https://github.com/funmibam/Cybersecurity-Incident-Summary-">Cybersecurity Incident Summary</a>
