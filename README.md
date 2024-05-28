@@ -15,7 +15,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-|  Conducting Security Audit        | <a href="https://file:///Users/funmi/Desktop/my%20project/index.html>Detection Lab</a>|
+|  Conducting Security Audit        | <a href="https://file://Users/funmi/Desktop/my%20project/index.html>index.html</a>|
 |                                   | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
