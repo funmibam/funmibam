@@ -3,8 +3,7 @@
 
 [Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
-
+I'm a motivated and eager-to-learn person who is currently diving into the world of Information Technology through some awesome online courses. I'm passionate about exploring IT and I'm dedicated to honing my skills in computer systems, networking, and cybersecurity.
 ## Objective
 [Provide Objective - Remove this afterwards]]
 
