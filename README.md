@@ -3,7 +3,7 @@
 
 [Brief Introduction - Remove this afterwards]
 
-I'm a motivated and eager-to-learn person who is currently diving into the world of Information Technology through some awesome online courses. I'm passionate about exploring IT and I'm dedicated to honing my skills in computer systems, networking, and cybersecurity.
+I am a motivated and eager-to-learn person who is currently building a foundation in information technology Technology through  comprehensive online courses. I'm passionate about exploring IT and I'm dedicated to honing my skills in computer systems, networking, and cybersecurity.
 ## Objective
 [Provide Objective - Remove this afterwards]]
 
