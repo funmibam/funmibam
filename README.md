@@ -1,12 +1,13 @@
 # Hello, I'm Funmilayo
+[Brief Introduction]
 
-#Introdution
 I am a motivated and eager-to-learn person who is currently building a foundation in information technology Technology through  comprehensive online courses. I'm passionate about exploring IT and I'm dedicated to honing my skills in computer systems, networking, and cybersecurity.
+
 ## Objective
 Aspiring to leverage my foundational knowledge in Information Technology to gain hands-on experience and contribute to innovative projects. Eager to develop technical skills in a dynamic environment, collaborate with experienced professionals, and support the organization’s technological advancements through dedication and a strong work ethic.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
