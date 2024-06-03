@@ -14,13 +14,10 @@ Aspiring to leverage my foundational knowledge in Information Technology to gain
 |  Conducting Security Audit        | <a href="https://github.com/funmibam/Security-Auditing">Security Auditing</a>|
 |  NIST CSF framework               |    <a href="https://github.com/funmibam/Cybersecurity-Incident-Summary-">Cybersecurity Incident Summary</a>|
 | Linux Commandline  | <a href="https://docs.google.com/document/d/1XtuN2CtIExZvnQ44gdFQn-vmT0JX3ji5mAwmp2IoX8E/edit">File Permission in Linux</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
-cccc              Jjjny## Tools
-[Provide tools and breauk them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+
+## Tools
+
 
 ### Network
 <div>
@@ -28,7 +25,7 @@ cccc              Jjjny## Tools
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
-`23ef
+
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
