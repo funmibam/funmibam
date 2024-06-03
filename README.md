@@ -1,13 +1,10 @@
 # Hello, I'm Funmilayo
 <a href="https://linkedin.com/in/funmilayobamisaye"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
-
+#Introdution
 I am a motivated and eager-to-learn person who is currently building a foundation in information technology Technology through  comprehensive online courses. I'm passionate about exploring IT and I'm dedicated to honing my skills in computer systems, networking, and cybersecurity.
 ## Objective
-[Provide Objective - Remove this afterwards]]
-
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+Aspiring to leverage my foundational knowledge in Information Technology to gain hands-on experience and contribute to innovative projects. Eager to develop technical skills in a dynamic environment, collaborate with experienced professionals, and support the organization’s technological advancements through dedication and a strong work ethic.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
