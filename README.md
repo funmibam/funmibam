@@ -6,16 +6,6 @@ Aspiring to leverage my foundational knowledge in Information Technology to gain
 
 ## Skills
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
-
-- Conducting Security Audit : <a href="https://github.com/funmibam/Security-Auditing">Security Auditing</a>
-
-- NIST CSF framework:  <a href="https://github.com/funmibam/Cybersecurity-Incident-Summary-">Cybersecurity Incident Summary</a>
-
-- Linux : <a href="https://docs.google.com/document/d/1XtuN2CtIExZvnQ44gdFQn-vmT0JX3ji5mAwmp2IoX8E/edit">File Permission in Linux</a>
-
-
-
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
@@ -26,6 +16,13 @@ Aspiring to leverage my foundational knowledge in Information Technology to gain
   - [Configuring Active Directory within Azure VMs](https://github.com/joshmadakoredmonds/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakoredmonds/azure-network-protocols)
 
+<h2>👨‍💻 Cybersecurity Projects:</h2>
+
+- Conducting Security Audit : <a href="https://github.com/funmibam/Security-Auditing">Security Auditing</a>
+
+- NIST CSF framework:  <a href="https://github.com/funmibam/Cybersecurity-Incident-Summary-">Cybersecurity Incident Summary</a>
+
+- Linux : <a href="https://docs.google.com/document/d/1XtuN2CtIExZvnQ44gdFQn-vmT0JX3ji5mAwmp2IoX8E/edit">File Permission in Linux</a>
 
 
 ## Tools
