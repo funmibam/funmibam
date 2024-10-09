@@ -1,6 +1,4 @@
 # Hello, I'm Funmilayo
-[Brief Introduction]
-
 I am a motivated and eager-to-learn person who is currently building a foundation in information technology Technology through  comprehensive online courses. I'm passionate about exploring IT and I'm dedicated to honing my skills in computer systems, networking, and cybersecurity.
 
 ## Objective
