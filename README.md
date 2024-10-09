@@ -7,9 +7,9 @@ Aspiring to leverage my foundational knowledge in Information Technology to gain
 ## Skills
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
- |<b>(Conducting Security Audit)</b> <a href="https://github.com/funmibam/Security-Auditing">Security Auditing</a>      
-|  NIST CSF framework               |    <a href="https://github.com/funmibam/Cybersecurity-Incident-Summary-">Cybersecurity Incident Summary</a>|
-| Linux  | <a href="https://docs.google.com/document/d/1XtuN2CtIExZvnQ44gdFQn-vmT0JX3ji5mAwmp2IoX8E/edit">File Permission in Linux</a>|
+-<b>(Conducting Security Audit)</b> <a href="https://github.com/funmibam/Security-Auditing">Security Auditing</a>      
+-<b>(NIST CSF framework)</b> <a href="https://github.com/funmibam/Cybersecurity-Incident-Summary-">Cybersecurity Incident Summary</a>
+-<b>(Linux) <a href="https://docs.google.com/document/d/1XtuN2CtIExZvnQ44gdFQn-vmT0JX3ji5mAwmp2IoX8E/edit">File Permission in Linux</a>
 
 
 
