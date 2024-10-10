@@ -19,7 +19,7 @@ Aspiring to leverage my foundational knowledge in Information Technology to gain
     
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
-- <b>osTicket (Help Desk Ticketing System)</b>
+
 
 - [Conducting Security Audit] : <a href="https://github.com/funmibam/Security-Auditing">Security Auditing</a>
 
