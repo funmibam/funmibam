@@ -11,7 +11,7 @@ Aspiring to leverage my foundational knowledge in Information Technology to gain
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/funmibam/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/funmibam/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakoredmonds/ticket-lifecycle)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/funmibam/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/joshmadakoredmonds/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakoredmonds/azure-network-protocols)
