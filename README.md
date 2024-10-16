@@ -20,7 +20,7 @@ Aspiring to leverage my foundational knowledge in Information Technology to gain
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-**Conducting Security Audit:**  
+- **Conducting Security Audit:**  
   [Security Auditing](https://github.com/funmibam/Security-Auditing)
 
 - **NIST CSF Framework:**  
