@@ -1,8 +1,10 @@
 # Hello, I'm Funmilayo
-I am a motivated and eager-to-learn person who is currently building a foundation in information technology Technology through  comprehensive online courses. I'm passionate about exploring IT and I'm dedicated to honing my skills in computer systems, networking, and cybersecurity.
 
-## Objective
-Aspiring to leverage my foundational knowledge in Information Technology to gain hands-on experience and contribute to innovative projects. Eager to develop technical skills in a dynamic environment, collaborate with experienced professionals, and support the organization’s technological advancements through dedication and a strong work ethic.
+As a passionate and driven individual, I am currently laying the groundwork for a successful career in Information Technology. With a keen interest in computer systems, networking, and cybersecurity, I thrive on the challenge of exploring new technologies and solving complex problems. My commitment to continuous learning has led me to undertake comprehensive online courses that deepen my understanding and enhance my skills in the ever-evolving tech landscape.
+
+I am excited about the opportunities that lie ahead and am eager to contribute my knowledge and enthusiasm to innovative projects. With a focus on collaboration and a strong work ethic, I aim to make a meaningful impact in the field of IT.
+
+
 
 ## Skills
 
