@@ -6,7 +6,7 @@ I am excited about the opportunities that lie ahead and am eager to contribute m
 
 
 
-## Skills
+
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
