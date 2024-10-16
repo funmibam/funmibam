@@ -32,7 +32,7 @@ I am excited about the opportunities that lie ahead and am eager to contribute m
 ## 👨‍💻 Cybersecurity Projects:
 - **Conducting Security Audit:**    [Security Auditing](https://github.com/funmibam/Security-Auditing)
           
-- **cybersecurity Incident Summar:y** [Cybersecurity Incident Summary](https://github.com/funmibam/Cybersecurity-Incident-Summary-)
+- **cybersecurity Incident Summary:** [Cybersecurity Incident Summary](https://github.com/funmibam/Cybersecurity-Incident-Summary-)
 
 - **Linux:**  [File Permission in Linux](https://docs.google.com/document/d/1XtuN2CtIExZvnQ44gdFQn-vmT0JX3ji5mAwmp2IoX8E/edit)
 
