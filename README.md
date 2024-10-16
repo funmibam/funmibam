@@ -14,7 +14,7 @@ Aspiring to leverage my foundational knowledge in Information Technology to gain
   - [osTicket: Ticket Lifecycle Examples](https://github.com/funmibam/ticket-lifecycle)
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/funmibam/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/funmibam/azure-network-protocols)
+  - [Group policy and Managing Accounts ](https://github.com/funmibam/group-policy)
   - [Network File Shares and Permissions](https://github.com/funmibam/network-file-shares-and-permissions)
     
 
