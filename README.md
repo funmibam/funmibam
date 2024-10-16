@@ -30,14 +30,11 @@ I am excited about the opportunities that lie ahead and am eager to contribute m
   - [Network File Shares and Permissions](https://github.com/funmibam/network-file-shares-and-permissions)
 
 ## 👨‍💻 Cybersecurity Projects:
-- **Conducting Security Audit:**  
-  [Security Auditing](https://github.com/funmibam/Security-Auditing)
+- **Conducting Security Audit:**    [Security Auditing](https://github.com/funmibam/Security-Auditing)
+          
+- **cybersecurity Incident Summar:y** [Cybersecurity Incident Summary](https://github.com/funmibam/Cybersecurity-Incident-Summary-)
 
-- **NIST CSF Framework:**  
-  [Cybersecurity Incident Summary](https://github.com/funmibam/Cybersecurity-Incident-Summary-)
-
-- **Linux:**  
-  [File Permission in Linux](https://docs.google.com/document/d/1XtuN2CtIExZvnQ44gdFQn-vmT0JX3ji5mAwmp2IoX8E/edit)
+- **Linux:**  [File Permission in Linux](https://docs.google.com/document/d/1XtuN2CtIExZvnQ44gdFQn-vmT0JX3ji5mAwmp2IoX8E/edit)
 
 ## 🛠️ Tools
 <div>
