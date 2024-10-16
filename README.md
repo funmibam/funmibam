@@ -34,7 +34,7 @@ Aspiring to leverage my foundational knowledge in Information Technology to gain
 ## Tools
 <div>
     <img src="https://img.shields.io/badge/-Cisco%20Packet%20Tracer-1A9CD2?&style=for-the-badge&logo=Cisco&logoColor=white" />
-    <img src="https://img.shields.io/badge/-NETLAB%2B-009639?&style=for-the-badge&logo=NetLab&logoColor=white" />
+    <img src="https://img.shields.io/badge/-NETLAB%2B-009639?&style=for-the-badge&logo=NetLab&logoColor=green" />
     <img src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?&style=for-the-badge&logo=Microsoft%20Azure&logoColor=white" />
 </div>
 
