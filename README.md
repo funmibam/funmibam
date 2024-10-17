@@ -28,6 +28,9 @@ I am excited about the opportunities that lie ahead and am eager to contribute m
   - [Configuring Active Directory within Azure VMs](https://github.com/funmibam/configure-ad)
   - [Active Directory Group Policy and Accounts Management](https://github.com/funmibam/active-directory-group-policy-management)
   - [Network File Shares and Permissions](https://github.com/funmibam/network-file-shares-and-permissions)
+ 
+  -**Cisco Packet Tracer**
+  - cisco packet tracer-https://github.com/funmibam/
 
 ## 👨‍💻 Cybersecurity Projects:
 - **Conducting Security Audit:**    [Security Auditing](https://github.com/funmibam/Security-Auditing)
