@@ -30,7 +30,7 @@ I am excited about the opportunities that lie ahead and am eager to contribute m
   - [Network File Shares and Permissions](https://github.com/funmibam/network-file-shares-and-permissions)
  
   -**Cisco Packet Tracer**
-  - cisco packet tracer-https://github.com/funmibam/
+  - [Network Device Configuration and Connectivity](https://github.com/funmibam/network-device-configuration)
 
 ## 👨‍💻 Cybersecurity Projects:
 - **Conducting Security Audit:**    [Security Auditing](https://github.com/funmibam/Security-Auditing)
