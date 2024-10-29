@@ -29,7 +29,7 @@ I am excited about the opportunities that lie ahead and am eager to contribute m
   - [Active Directory Group Policy and Accounts Management](https://github.com/funmibam/active-directory-group-policy-management)
   - [Network File Shares and Permissions](https://github.com/funmibam/network-file-shares-and-permissions)
  
-  -**Cisco Packet Tracer**
+  - **Cisco Packet Tracer**
   - [Network Device Configuration and Connectivity](https://github.com/funmibam/network-device-configuration)
 
 ## 👨‍💻 Cybersecurity Projects:
