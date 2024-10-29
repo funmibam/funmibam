@@ -31,6 +31,8 @@ I am excited about the opportunities that lie ahead and am eager to contribute m
  
   - **Cisco Packet Tracer**
   - [Network Device Configuration and Connectivity](https://github.com/funmibam/network-device-configuration)
+ 
+  - **Netlab+**
 
 ## 👨‍💻 Cybersecurity Projects:
 - **Conducting Security Audit:**    [Security Auditing](https://github.com/funmibam/Security-Auditing)
