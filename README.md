@@ -59,6 +59,6 @@ I am excited about the opportunities that lie ahead and am eager to contribute m
 </div>
 
 ## 📫 Get in Touch
-- [LinkedIn](your-linkedin-url)
-- [GitHub](your-github-url)
+- [LinkedIn](https://www.linkedin.com/in/funmibam)
+- [GitHub]()
 - Email: funmioluwafemi19@gmail.com
