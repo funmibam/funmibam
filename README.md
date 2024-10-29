@@ -30,9 +30,13 @@ I am excited about the opportunities that lie ahead and am eager to contribute m
   - [Network File Shares and Permissions](https://github.com/funmibam/network-file-shares-and-permissions)
  
   - **Cisco Packet Tracer**
+  - An effective network simulation tool that fosters the development of essential skills in network design, configuration, and troubleshooting, providing valuable hands-on 
+    experience for learners 
   - [Network Device Configuration and Connectivity](https://github.com/funmibam/network-device-configuration)
  
   - **Netlab+**
+  - The NetLab+ practice labs provide hands-on experience in fundamental IT and system administration skills. 
+  - IT Essentials(CompTIA A+) Practice Labs (https://github.com/funmibam/NetLabs-Projects)
 
 ## 👨‍💻 Cybersecurity Projects:
 - **Conducting Security Audit:**    [Security Auditing](https://github.com/funmibam/Security-Auditing)
