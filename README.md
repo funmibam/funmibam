@@ -61,4 +61,4 @@ I am excited about the opportunities that lie ahead and am eager to contribute m
 ## 📫 Get in Touch
 - [LinkedIn](https://www.linkedin.com/in/funmibam)
 - [GitHub](https://funmibam.com/)
-- Email: fubamisaye@gmail.com
+- fubamisaye@gmail.com
